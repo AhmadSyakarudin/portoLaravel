@@ -15,7 +15,7 @@
     <i class='bx bx-menu' id="menu-icon"></i>
 
     <nav class="navbar">
-        <a href="/" class="active">Home</a>
+        <a href="/">Home</a>
         <a href="/about">About</a>
         <a href="/service">Service</a>
         <a href="/contact">Contact</a>
